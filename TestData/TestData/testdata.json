@@ -1,0 +1,14 @@
+﻿{
+   "accountname":"CERTIFICATE ***30080",
+   "accounttype":"certificate-accounts",
+   "daysinfuture":"-120",
+   "password":"Passw0rd",
+   "username":"2675496",
+   "number":123,
+   "boolean":true,
+   "date":"1/1/2000",
+   "array":[
+      "thing1",
+      "thing2"
+   ]
+}
